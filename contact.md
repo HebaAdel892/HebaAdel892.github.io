@@ -18,9 +18,9 @@ I'm always open to discussing data analytics opportunities.
 
 ## Professional Networks
 
-**LinkedIn:** linkedin.com/in/hebaelgamal
+**LinkedIn:** linkedin.com/in/heba-adel-b582a0103
 
-**GitHub:** github.com/hebaelgamal
+**GitHub:** github.com/HebaAdel892
 
 ## Open To
 
