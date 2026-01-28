@@ -31,7 +31,7 @@ navbar-links:
 # --- Background Images --- #
 
 # Image to show in the navigation bar
-avatar: "/assets/img/heba-profile.jpg"
+avatar: "/assets/img/Heba-Profile.jpg"
 
 # By default, the navbar is light. You can change it to dark
 navbar-col: "#1a1a2e"
