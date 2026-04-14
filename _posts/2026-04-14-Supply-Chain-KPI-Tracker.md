@@ -3,13 +3,13 @@ layout: post
 title: Supply Chain KPI Tracker
 subtitle: Analyzing 10+ KPIs across 15 suppliers using Python
 cover-img: 
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: "https://github.com/user-attachments/assets/991e2693-32aa-4747-a4e0-9c6b5cee579a"
+share-img: 
 tags: [Data-Analysis, Python, Supply-Chain]
 author: Heba Elgamal
 ---
 
-"https://github.com/user-attachments/assets/c5185094-896c-45df-b09e-ce147ce722e4"
+(https://github.com/user-attachments/assets/c5185094-896c-45df-b09e-ce147ce722e4)[Supply Chain Dashboard]!
 
 ### Project Overview
 Built an end-to-end supply chain analytics solution tracking **10+ KPIs** across 15 suppliers, 6 warehouses, and 8,000+ transactions.
