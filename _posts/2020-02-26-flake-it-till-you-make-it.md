@@ -2,7 +2,7 @@
 layout: post
 title: Supply Chain KPI Tracker
 subtitle: Analyzing 10+ KPIs across 15 suppliers using Python
-cover-img: "https://github.com/user-attachments/assets/c6655899-64cf-4b08-b86e-7f9142901fc1"
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Data-Analysis, Python, Supply-Chain]
