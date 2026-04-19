@@ -37,4 +37,4 @@ I am passionate about leveraging data to solve complex business problems and dri
 **Location:** Jeddah, Saudi Arabia (Open to Remote/Relocation)
 
 [View My Experience](/experience){: .btn .btn-primary}
-[Download CV](/assets/Heba_Elgamal_CV.pdf){: .btn .btn-secondary}
+[Download CV](/assets/Heba_Elgamal_Resume.pdf){: .btn .btn-secondary}
